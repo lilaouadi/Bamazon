@@ -18,7 +18,7 @@
   "homepage": "https://github.com/lilaouadi/Bamazon#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^7.0.3",
+    "inquirer": "^7.0.4",
     "mysql": "^2.18.0"
   }
 }
